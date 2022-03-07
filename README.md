@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/RhythmiCon/RhythmiCon/blob/main/Group%201.png)
+[![Header](https://github.com/RhythmiCon/RhythmiCon/blob/main/Group%201.png)](https://github.com/RhythmiCon/RhythmiCon/blob/main/Group%201.png)
 
 Here's some of the tech I use right now:
 
