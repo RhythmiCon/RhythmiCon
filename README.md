@@ -1,6 +1,6 @@
 ### Hi, I'm Conor! 
 
-Here's some the tech I use right now:
+Here's some of the tech I use right now:
 
 #### Languages
 
